@@ -1,18 +1,24 @@
 # FoodDeliveryExpo
 React Native IOS
 
-__**Home **__:
+# Google Map API Key
+https://www.byprogrammers.com/2020/11/how-to-generate-google-maps-api-key-for-mobile-app/
 
-![Screenshot](assets/Screens/Home.png)
+# Integrate google maps
+https://www.byprogrammers.com/2020/11/how-to-integrate-google-maps-in-react-native-app/
 
-__**Shop **__:
+# Video
+https://www.youtube.com/watch?v=diUDjNwZ8Lg
 
-![Screenshot](assets/Screens/FoodShop.png)
+# git
+git clone https://github.com/pociosx/food-delivery-expo
 
-__**Delivery **__:
+# install
+cd food-delivery-expo
+npm install --global expo-cli
 
-![Screenshot](assets/Screens/Delivery.png)
+# install npm
+npm install
 
-__**Login **__:
-
-![Screenshot](assets/Screens/Login.png)
+# start
+npm start
